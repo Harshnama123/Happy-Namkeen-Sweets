@@ -10,7 +10,7 @@ A modern, vibrant Next.js website for Happy Namkeen & Sweets, featuring a beauti
 
 ### Hero Section
 
-![Hero Section](./public/images/screenshot-hero.png)
+![Hero Section](./screenshot/hero.png)
 
 <!-- Add more screenshots as needed -->
 
