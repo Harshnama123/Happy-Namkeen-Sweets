@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Happy Namkeen & Sweets
 
-## Getting Started
+A modern, vibrant Next.js website for Happy Namkeen & Sweets, featuring a beautiful hero section, product highlights, and a responsive design.
 
-First, run the development server:
+## 🚀 Live Demo
+
+[Deployed on Netlify](#) <!-- Add your Netlify link here after deployment -->
+
+## ✨ Screenshots
+
+### Hero Section
+
+![Hero Section](./public/images/screenshot-hero.png)
+
+<!-- Add more screenshots as needed -->
+
+## 🛠️ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Harshnama123/Happy-Namkeen-Sweets.git
+cd Happy-Namkeen-Sweets
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🏗️ Build for Production
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm start
+```
 
-## Learn More
+## 🌐 Deploy on Netlify
 
-To learn more about Next.js, take a look at the following resources:
+1. Push your code to GitHub.
+2. Go to [Netlify](https://app.netlify.com/) and create a new site from Git.
+3. Connect your repository and set the build command to `npm run build` and publish directory to `.next`.
+4. Click "Deploy" and your site will be live!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📁 Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- `app/` - Main application code (pages, components)
+- `public/` - Static assets (images, favicon, etc.)
+- `styles/` - Global styles
+- `package.json` - Project metadata and scripts
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+
+[MIT](LICENSE)
+
+---
+
+> Made with ❤️ for Happy Namkeen & Sweets
